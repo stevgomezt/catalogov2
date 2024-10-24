@@ -1501,4 +1501,71 @@ section {
     }
   }
   
+  #rpa-solution .section-header h2 {
+    color: #472c85;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+  #rpa-solution .section-header p {
+    color: #333;
+    font-size: 1.1rem;
+  }
+  
+  #rpa-solution .icon-box {
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 8px;
+    color: #f69c00;
+  }
+  
+  #rpa-solution .icon-box i {
+    font-size: 3rem;
+    color: #f69c00;
+    margin-bottom: 10px;
+  }
+  
+  #rpa-solution .icon-box h4 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #472c85;
+  }
+  
+  .progress-bar-container {
+    text-align: center;
+  }
+  
+  img.img-fluid {
+    border-radius: 10px;
+  }
+
+  #competitive-advantages .section-header h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  #competitive-advantages .col-lg-4 h3 {
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  #competitive-advantages .col-lg-4 p {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+  
+  #competitive-advantages .img-fluid {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  #competitive-advantages .col-lg-4 {
+    margin-bottom: 30px;
+  }
   
